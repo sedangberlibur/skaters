@@ -11,7 +11,7 @@ This is an open source e-commerce project build by [Inifarhan](https://github.co
 
 ## Tech Stack 💻
 
-- **Framework:** [Laravel](https://laravel.com/)
+- **Framework:** [Next.js](https://nextjs.org/)
 - **Styling:** [Tailwind CSS](https://tailwindcss.com)
 - **Authentication:** [Next Auth](https://authjs.dev)
 - **Database:** [Mysql](https://www.mysql.com)
